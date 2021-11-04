@@ -1,0 +1,169 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-color:aliceblue;
+    text-align: center;
+    
+    
+}
+  
+.top-div{
+background-color: #e4f9f5;
+height: 800px;
+display:inline-block;
+width: 100%;
+}    
+
+.top-cloud{
+    position: absolute; right: 500px;
+    position: absolute; top: 50px;
+    width: 200px;
+    height: 64px;
+}
+
+    
+.img1{
+    width: 25%;
+    float: left; 
+    position: relative; bottom: 40px;
+    margin-right: 30px;
+
+    
+    
+    
+}
+
+.img2{
+    width: 25%;
+    float: right;
+    position: relative; right: 20px;
+
+
+}
+
+.btn{
+    color:  #11999E;
+
+}
+.giphy{
+    width: 512px;
+    height: 512px;
+}
+
+.bottom-cloud{
+    position: absolute; left: 400px;
+    position: absolute; top: 230px;
+    width: 200px;
+    height: 64px;
+}
+.noodle{
+    width: 256px;
+    height: 256px
+    ;
+}
+.mountain{
+
+    width: 690px;
+    height: 400px;
+}
+.footer-link{
+ text-decoration: none;
+
+ font-size: 2rem;
+ 
+ }
+ .middle{
+     margin-left: 50px;
+     margin-right: 50px;
+ }
+
+
+
+h1{
+    
+   
+    margin: 100px auto 100px auto ;
+    position: relative;top: 100px;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+.p1{
+    font-size:larger;
+    font-size: 2rem;
+}
+.creative{
+    position: relative;top: 30px;
+}
+hr{
+    width: 20%;
+    color: #EAF6F6;
+    height: 10px;
+    border:none;
+    border-top:dotted;
+    border-width:10px;
+
+    border-color: gray;
+    
+}
+
+h2{
+    font-family: 'Indie Flower', cursive;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Indie Flower', cursive;
+    color:  #11999E;
+    font-size: 2rem;
+}
+.web-deginer{
+    position: relative; top: 50px;
+    font-weight: normal;
+}
+
+
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+  
+}
+.p2{
+    font-size: 2rem;
+}
+.get-in-touch{
+    margin-bottom: 0px;
+    position: relative;bottom: 20px;
+}
+.get-in-touch-p{
+    position: relative;bottom: 40px;
+    font-size: 1.5rem;
+    color: black;
+}
+.btn{
+       width: 2rem;
+       height: 1rem;
+       position: relative;bottom: 40px;
+       padding: 20px;
+       background-color:#66BFBF;
+       text-decoration: none;
+       border-radius: 20%;
+       color: #e4f9f5;
+    
+       border: solid ;
+
+}
+.btn:hover{
+    opacity: 0.8;
+
+}
+
+.bottom-container{
+    background-color:#66BFBF;
+    padding: 50PX 0 20PX 0;
+}
+.copyright{
+    color: aliceblue;
+}
